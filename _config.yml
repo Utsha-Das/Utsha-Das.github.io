@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Utsha's Website"
+title                    : "Utsha'ss Website"
 title_separator          : "-"
 name                     : &name "Utsha Das"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Utsha Das"
-  avatar           : "profile.png"
+  avatar           : "A-24793.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
